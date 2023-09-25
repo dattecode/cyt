@@ -1,0 +1,82 @@
+[
+  {
+    "frase": "La teoría de la relatividad de Einstein revolucionó nuestra comprensión del espacio y el tiempo.",
+    "autor": "Albert Einstein"
+  },
+  {
+    "frase": "La invención del teléfono por Alexander Graham Bell cambió para siempre la forma en que nos comunicamos.",
+    "autor": "Alexander Graham Bell"
+  },
+  {
+    "frase": "El descubrimiento de la penicilina por Alexander Fleming revolucionó la medicina y salvó innumerables vidas.",
+    "autor": "Alexander Fleming"
+  },
+  {
+    "frase": "El alunizaje del Apolo 11 fue un hito histórico que demostró la capacidad de la humanidad para llegar a la Luna.",
+    "autor": "Neil Armstrong, Buzz Aldrin y Michael Collins (tripulación del Apolo 11)"
+  },
+  {
+    "frase": "La creación de la World Wide Web por Tim Berners-Lee cambió la forma en que compartimos información y nos comunicamos en línea.",
+    "autor": "Tim Berners-Lee"
+  },
+  {
+    "frase": "El descubrimiento de la estructura del ADN por James Watson y Francis Crick fue un avance crucial en la genética y la biología.",
+    "autor": "James Watson y Francis Crick"
+  },
+  {
+    "frase": "La invención de la imprenta por Johannes Gutenberg revolucionó la difusión de la información y el conocimiento.",
+    "autor": "Johannes Gutenberg"
+  },
+  {
+    "frase": "El desarrollo del microprocesador por Intel sentó las bases para la revolución de la computadora personal.",
+    "autor": "Intel Corporation"
+  },
+  {
+    "frase": "El lanzamiento del Sputnik 1 por la Unión Soviética marcó el comienzo de la era espacial.",
+    "autor": "Unión Soviética"
+  },
+  {
+    "frase": "El descubrimiento de la radioactividad por Marie Curie contribuyó significativamente al campo de la física nuclear.",
+    "autor": "Marie Curie"
+  },
+  {
+    "frase": "La invención de la bombilla eléctrica por Thomas Edison cambió la forma en que iluminamos nuestras vidas.",
+    "autor": "Thomas Edison"
+  },
+  {
+    "frase": "El desarrollo de la teoría de la evolución por Charles Darwin revolucionó nuestra comprensión de la vida en la Tierra.",
+    "autor": "Charles Darwin"
+  },
+  {
+    "frase": "El lanzamiento del telescopio espacial Hubble ha revelado innumerables secretos del universo.",
+    "autor": "Telescopio Espacial Hubble"
+  },
+  {
+    "frase": "El desarrollo del teléfono inteligente cambió la forma en que vivimos y nos conectamos con el mundo.",
+    "autor": "Varios inventores y empresas tecnológicas"
+  },
+  {
+    "frase": "El descubrimiento de la estructura del átomo por Ernest Rutherford sentó las bases de la física nuclear moderna.",
+    "autor": "Ernest Rutherford"
+  },
+  {
+    "frase": "El avance en la inteligencia artificial está transformando industrias y la forma en que interactuamos con la tecnología.",
+    "autor": "Desarrolladores de inteligencia artificial"
+  },
+  {
+    "frase": "El aterrizaje del rover Perseverance en Marte representa un logro impresionante en la exploración espacial.",
+    "autor": "NASA y científicos del proyecto"
+  },
+  {
+    "frase": "El descubrimiento del bosón de Higgs confirmó la existencia de la partícula de Dios y cambió la física de partículas.",
+    "autor": "Científicos en el CERN"
+  },
+  {
+    "frase": "La creación de la primera vacuna efectiva contra la polio por Jonas Salk salvó millones de vidas.",
+    "autor": "Jonas Salk"
+  },
+  {
+    "frase": "El desarrollo de la energía nuclear ha tenido un impacto profundo en la generación de energía y la investigación científica.",
+    "autor": "Varios científicos y ingenieros nucleares"
+  }
+]

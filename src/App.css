@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/h-huddle-stone');
+
+.appMain {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.5rem;
+  background-image: url("./img/bgTyc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  color: #FF6600;
+  font-family: 'h Huddle Stone', sans-serif;
+}
